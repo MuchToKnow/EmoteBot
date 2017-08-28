@@ -1,16 +1,2 @@
-!about
-Jklolstreams is currently in his second year of university.  He attends the University of British Columbia Vancouver Campus majoring in Computer Science.
-!help
-This is Jklolstreams' chat bot! Try to type a command such as !about, !aboutbot or !list.
-!aboutbot
-jklolstreams made me as a computer science project for his computer science IB class in Grade 12 while he was in Calgary.
-!list
-!about, !help, !aboutbot, !ping, !pong, !kappa, !pogChamp are the current commands.
-!ping
-pong
-!pong
-ping
-!kappa
-Kappa
-!pogchamp
-PogChamp
+!test
+Test successful
