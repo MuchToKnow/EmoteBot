@@ -1,6 +1,8 @@
 # EmoteBot
 Bot for Twitch Utilizing PircBot and JFreeChart.
 
+* I swear my code is not this messy now. *
+
 Created during my grade 12 year for my IA during CompSci IB HL.
 
 
